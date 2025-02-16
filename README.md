@@ -118,7 +118,3 @@ yarn start
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-issues).
-
-## 📝 License
-
-This project is [MIT](link-to-license) licensed.
